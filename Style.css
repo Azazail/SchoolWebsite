@@ -1,0 +1,39 @@
+#body {
+    background-image: url("http://assets.nydailynews.com/polopoly_fs/1.1087267.1338438351!/img/httpImage/image.jpg_gen/derivatives/article_750/teach31n-1-web.jpg");
+    background-repeat: no-repeat;
+    background-size: 1760px 930px;
+    height: 930px;
+}
+#navbar {
+    text-align: center;
+    top: 10%
+}
+#AC {
+    float: left;
+    text-align: left;
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    padding: 20px;
+}
+#Teacher {
+    float: right;
+    position: absolute;
+    left: 90%;
+    top: 5%;
+    padding: 20px;
+
+}
+#Home {
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    font-family: sans-serif;
+    font-weight: 900;
+    padding: 20px;
+    background-color: blue;
+    border-color: yellow;
+    border-style: solid;
+    border-width: : 20px;
+    
+}
